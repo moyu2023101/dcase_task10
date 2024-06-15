@@ -1,0 +1,9 @@
+---
+# Root folder of real-world data
+real_root: ./data_root/real_root
+
+# Folder of engine sounds
+engine_sound_dir: ./data_root/engine-sounds
+
+# Work folder for traffic model, generated events, trained models, inference results, evaluation outputs
+work_folder: ./data_root/work_folder
