@@ -32,7 +32,7 @@ The output of this step is saved at `<work_folder>/counting`
 
 5.Additionally, the modifications needed for our three submitted systems are as follows:
 ```angular2html
-GISP-HEU-System-1: "atsc/counting/models/baseline.py" -lines_246:self.type=="panns_gat"
-GISP-HEU-System-2: "atsc/counting/models/baseline.py" -lines_246:self.type=="panns_gat" -lines_301:self.encoder = Cnn10(spec_aug=True)
-GISP-HEU-System-3: "atsc/counting/models/baseline.py" -lines_246:self.type=="phase_panns_gat" -lines_301:self.encoder = Cnn10(spec_aug=True)
+System-1: "atsc/counting/models/baseline.py" -lines_246:self.type=="panns_gat"
+System-2: "atsc/counting/models/baseline.py" -lines_246:self.type=="panns_gat" -lines_301:self.encoder = Cnn10(spec_aug=True)
+System-3: "atsc/counting/models/baseline.py" -lines_246:self.type=="phase_panns_gat" -lines_301:self.encoder = Cnn10(spec_aug=True)
 ```
