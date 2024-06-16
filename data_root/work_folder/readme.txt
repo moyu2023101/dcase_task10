@@ -5,3 +5,4 @@ Please download the result file from this link: [ https://drive.google.com/drive
 
 After downloading, extract the contents and place them in the specified directory. 
 
+Then, rename the system you want to evaluate to "counting", for example: counting_system1 -> counting.
