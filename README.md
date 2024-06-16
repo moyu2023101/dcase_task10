@@ -2,7 +2,7 @@
 
 ## Purpose of the project
 
-This project contains the source code for the system we submitted for Task 10 in the DCASE2024 Challenge.
+This project contains the source code for the system we submitted for [Task 10 in the DCASE2024 Challenge](https://dcase.community/challenge2024/task-acoustic-based-traffic-monitoring).
 
 ## Getting started
 
